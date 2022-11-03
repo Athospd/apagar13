@@ -1,0 +1,16 @@
+{
+  "hash": "eb57bf00515fe4d36bbaae04834641b9",
+  "result": {
+    "markdown": "---\ntitle: \"Novo Post\"\nauthor: \"Athos\"\ndate: \"2022-11-01\"\ncategories: [news, code, analysis]\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(runif(1000))\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

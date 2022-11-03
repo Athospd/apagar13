@@ -1,0 +1,12 @@
+---
+title: "Novo Post"
+author: "Athos"
+date: "2022-11-01"
+categories: [news, code, analysis]
+---
+
+This is a post with executable code.
+
+```{r}
+hist(runif(1000))
+```
